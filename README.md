@@ -33,11 +33,12 @@ For NON-Root device watch the tutorial here
 ## 📷 Screenshots
 
   <p align="center">
-  <img src="https://github.com/user-attachments/assets/85461d96-2d3a-4c67-99ef-7e7018e3076e" width="120"/>
-  <img src="https://github.com/user-attachments/assets/e6f6fe85-6203-4b91-aa80-7649f0cf8f63" width="120"/>
-  <img src="https://github.com/user-attachments/assets/25394ed1-ae5b-4165-b4e4-c1710f0d2752" width="120"/>
-  <img src="https://github.com/user-attachments/assets/eed40282-7341-4037-adca-ca8f87c8e932" width="120"/>
-  <img src="https://github.com/user-attachments/assets/6b433479-a962-477f-91d8-b2f513fe882f" width="120"/>
+  <img src="https://github.com/user-attachments/assets/5774d1db-fba2-4cd5-abc2-87cdfdec3fa8" width="120"/>
+  <img src="https://github.com/user-attachments/assets/1f3c587c-9cda-4516-b374-17acbaaefc63" width="120"/>
+  <img src="https://github.com/user-attachments/assets/eda783b0-5f67-49e3-a0d5-7a21be357b4d" width="120"/>
+  <img src="https://github.com/user-attachments/assets/63133252-c18e-4f97-8e57-11262ba9c482" width="120"/>
+  <img src="https://github.com/user-attachments/assets/fb8787e4-16d5-43ff-8b42-8518c4c6a8b4" width="120"/>
+  <img src="https://github.com/user-attachments/assets/eb39aec4-e85e-415b-973a-f9e5c6f43f90" width="120"/>
 </p>
 
 
