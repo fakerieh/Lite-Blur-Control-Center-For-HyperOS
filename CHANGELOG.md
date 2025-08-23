@@ -1,3 +1,8 @@
+# V2.1
+### What's new?
+- Improve stability
+- For more info join [Emerald Discussion](https://t.me/EmeraldDiscuss).
+
 # V2
 ### What's new?
 - **NEW!** Now fully support `HyperOS 2.2` 
