@@ -1,3 +1,12 @@
+# V2.1
+### What's New?
+- Removing blur volume bar on HyperOS 2.2 (cuz it makes CPU heavy)  
+- Updating to the latest version  
+- Improve stability  
+- For more info, join [Emerald Discussion](https://t.me/EmeraldDiscuss).
+
+Note: i was trying to add AOD transition animation, it works but the gesture doesn't work💔
+
 # V2
 ### What's new?
 - **NEW!** Now fully support `HyperOS 2.2` 
