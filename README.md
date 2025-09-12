@@ -9,8 +9,9 @@ This version sacrifices some real-time blur effects for **better performance**, 
 
 > ⚠️ **Root access is required** to use this module. (Magisk or KernelSU)
 
-## ❓NON-Root
-For NON-Root device watch the tutorial here
+---
+## ❓Non-Root
+For Non-Root device watch the tutorial here
 
 [![Watch on TikTok](https://img.shields.io/badge/Tutorial%20Video-TikTok-blueviolet?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@emerald_g99/video/7451981653653654790?is_from_webapp=1&sender_device=pc&web_id=7509390879649957384)
 
@@ -77,6 +78,11 @@ For NON-Root device watch the tutorial here
 1. Open **Magisk/KernelSU**.
 2. Go to **Modules** and remove **LiteBlur-HyperOS2**.
 3. Reboot your device.
+
+---
+
+## ✨Support🤩
+Just give this Repository a star!⭐
 
 ---
 
