@@ -7,11 +7,11 @@ This version sacrifices some real-time blur effects for **better performance**, 
 [![Releases](https://img.shields.io/github/v/release/fakerieh/Control-Center-Blur-for-HyperOS2-but-LIGHTER-?label=Download%20Releases&style=for-the-badge&logo=github)](https://github.com/fakerieh/Control-Center-Blur-for-HyperOS2-but-LIGHTER-/releases)
 ![Total Downloads](https://img.shields.io/github/downloads/fakerieh/Lite-Blur-Control-Center-For-HyperOS2/total?color=ff4747&label=total%20downloads&style=for-the-badge)
 
-> ⚠️ **Root access is required** to use this module. (Magisk or KernelSU)
+> 👾 **Root access is required** to use this module. (Magisk or KernelSU)
 
 ---
-## ❓Non-Root
-For Non-Root device watch the tutorial here
+## ❓ Non-root
+For Non-root device watch the tutorial here
 
 [![Watch on TikTok](https://img.shields.io/badge/Tutorial%20Video-TikTok-blueviolet?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@emerald_g99/video/7451981653653654790?is_from_webapp=1&sender_device=pc&web_id=7509390879649957384)
 
@@ -32,7 +32,7 @@ For Non-Root device watch the tutorial here
 
 ---
 
-## 📷 Screenshots
+## 🖼️ Screenshots
 
   <p align="center">
   <img src="https://github.com/user-attachments/assets/5774d1db-fba2-4cd5-abc2-87cdfdec3fa8" width="120"/>
