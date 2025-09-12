@@ -1,5 +1,13 @@
 # V2.2
-### What's New?
+**What's New?**
+- Fixing critical issues
+- Fixing bugs and crashes
+- Updating to the compatible version
+- Improve stability  
+- For more info, join [Emerald Discussion](https://t.me/EmeraldDiscuss).
+
+# V2.2
+**What's New?**
 - Fixing bugs and crashes
 - Fixing the flashlight menu doesn't open
 - Updating to the latest version  
@@ -7,7 +15,7 @@
 - For more info, join [Emerald Discussion](https://t.me/EmeraldDiscuss).
 
 # V2.1
-### What's New?
+**What's New?**
 - Removing blur volume bar on HyperOS 2.2 (cuz it makes CPU heavy)  
 - Updating to the latest version  
 - Improve stability  
@@ -16,7 +24,7 @@
 Note: i was trying to add AOD transition animation, it works but the gesture doesn't work💔
 
 # V2
-### What's new?
+**What's new?**
 - **NEW!** Now fully support `HyperOS 2.2` 
 - Updating to the newest version of `DevicesOverlay`
 - Improve stability
