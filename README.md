@@ -5,7 +5,7 @@ A modified and **Lighter** version of Control Center Blur, built specifically fo
 This version sacrifices some real-time blur effects for **better performance**, **lower RAM/CPU usage**, and a **smoother experience** on low-end or mid-range devices.
 
 [![Releases](https://img.shields.io/github/v/release/fakerieh/Control-Center-Blur-for-HyperOS2-but-LIGHTER-?label=Download%20Releases&style=for-the-badge&logo=github)](https://github.com/fakerieh/Control-Center-Blur-for-HyperOS2-but-LIGHTER-/releases)
-![Total Downloads](https://img.shields.io/github/downloads/fakerieh/Lite-Blur-Control-Center-For-HyperOS2/total?color=ff4747&label=total%20downloads&style=for-the-badge)
+![Total Downloads](https://img.shields.io/github/downloads/fakerieh/Lite-Blur-Control-Center-For-HyperOS2/total?color=blueviolet&label=total%20downloads&style=for-the-badge)
 
 > 👾 **Root access is required** to use this module. (Magisk or KernelSU)
 
@@ -13,7 +13,7 @@ This version sacrifices some real-time blur effects for **better performance**, 
 ## ❓ Non-root
 For Non-root device watch the tutorial here
 
-[![Watch on TikTok](https://img.shields.io/badge/Tutorial%20Video-TikTok-blueviolet?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@emerald_g99/video/7451981653653654790?is_from_webapp=1&sender_device=pc&web_id=7509390879649957384)
+[![Watch on TikTok](https://img.shields.io/badge/Tutorial%20Video-TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@emerald_g99/video/7451981653653654790?is_from_webapp=1&sender_device=pc&web_id=7509390879649957384)
 
 
 ---
@@ -82,7 +82,8 @@ For Non-root device watch the tutorial here
 ---
 
 ## ✨Support🤩
-Just give this Repository a [star](https://github.com/user-attachments/assets/49ae8f84-4253-42fa-bb02-33e8c45a5406)!⭐
+Give this Repository a [star](https://github.com/user-attachments/assets/49ae8f84-4253-42fa-bb02-33e8c45a5406)!⭐
+it meant alot to me❤️‍🩹
 
 ---
 
