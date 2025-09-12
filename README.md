@@ -90,6 +90,7 @@ Use at your own risk. The author is not responsible for any potential damage or 
 
 **Credits [Kyrenzo](https://github.com/kyrenzo)**
 
+@kyrenzo
 
 
 [![Join Telegram](https://img.shields.io/badge/Join-Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/EmeraldDiscuss)
