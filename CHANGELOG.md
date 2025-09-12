@@ -1,4 +1,4 @@
-# V2.2
+# V2.3
 **What's New?**
 - Fixing critical issues
 - Fixing bugs and crashes
