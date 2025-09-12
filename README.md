@@ -1,10 +1,11 @@
 # Control Center Blur for HyperOS2 (Lite Version) 
 ![Picsart_25-06-23_22-24-54-105](https://github.com/user-attachments/assets/2e30c556-aa1f-44e9-944c-15f8b9614099)
 
-A modified and **Lighter** version of Control Center Blur, built specifically for **HyperOS 2** .  
+A modified and **Lighter** version of Control Center Blur, built specifically for **HyperOS 2.** 
 This version sacrifices some real-time blur effects for **better performance**, **lower RAM/CPU usage**, and a **smoother experience** on low-end or mid-range devices.
 
 [![Releases](https://img.shields.io/github/v/release/fakerieh/Control-Center-Blur-for-HyperOS2-but-LIGHTER-?label=Download%20Releases&style=for-the-badge&logo=github)](https://github.com/fakerieh/Control-Center-Blur-for-HyperOS2-but-LIGHTER-/releases)
+![Total Downloads](https://img.shields.io/github/downloads/fakerieh/Lite-Blur-Control-Center-For-HyperOS2/total?color=ff4747&label=total%20downloads&style=for-the-badge)
 
 > ⚠️ **Root access is required** to use this module. (Magisk or KernelSU)
 
