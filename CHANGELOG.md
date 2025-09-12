@@ -1,3 +1,11 @@
+# V2.2
+### What's New?
+- Fixing bugs and crashes
+- Fixing the flashlight menu doesn't open
+- Updating to the latest version  
+- Improve stability  
+- For more info, join [Emerald Discussion](https://t.me/EmeraldDiscuss).
+
 # V2.1
 ### What's New?
 - Removing blur volume bar on HyperOS 2.2 (cuz it makes CPU heavy)  
