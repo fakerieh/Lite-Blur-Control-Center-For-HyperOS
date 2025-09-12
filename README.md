@@ -18,14 +18,14 @@ For NON-Root device watch the tutorial here
 
 ## 🔧 Features
 
-- ✅ **No real-time blur** (for performance) [Preview](https://github.com/user-attachments/assets/63e0c045-3c91-4b4a-b84f-6bd0fbfcda79)
-- ✅ **No animation when opening Control Center** (for fast access and less cpu usage) [Preview](https://github.com/user-attachments/assets/9812762f-b54a-4a67-910e-011628cfda3d)
+- ❎ **No real-time blur** (for performance) [Preview](https://github.com/user-attachments/assets/63e0c045-3c91-4b4a-b84f-6bd0fbfcda79)
+- ❎ **No animation when opening Control Center** (for fast access and less cpu usage) [Preview](https://github.com/user-attachments/assets/9812762f-b54a-4a67-910e-011628cfda3d)
 - ✅ **Lighter**
 - ✅ **Minimal CPU and RAM usage**
-- ✅ **AOD (Always-On Display) transition animation**
-- ✅ **Blurred volume panel**
+- ✅ **AOD (Always-On Display) transition animation** (⚠️ONLY WORKED ON HYPEROS 2.0)
+- ❎ **No Blurred volume panel**
 - ✅ **Blurred Power Menu**
-- ⚠️ **Only for HyperOS 2**
+- ⚠️ **Only for HyperOS 2-2.2**
 - ⚠️ **Some effects disabled intentionally to keep the system light**
 
 ---
@@ -55,7 +55,7 @@ For NON-Root device watch the tutorial here
 
 ## 📦 Requirements
 
-- Redmi/POCO device with **HyperOS 2**
+- Redmi/POCO device with **HyperOS 2-2.2**
 - **Root access**
 - **Magisk or KernelSU** (latest version recommended)
 
