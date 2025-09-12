@@ -82,7 +82,7 @@ For Non-Root device watch the tutorial here
 ---
 
 ## ✨Support🤩
-Just give this Repository a star!⭐
+Just give this Repository a [star](https://github.com/user-attachments/assets/49ae8f84-4253-42fa-bb02-33e8c45a5406)!⭐
 
 ---
 
