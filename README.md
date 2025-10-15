@@ -24,7 +24,7 @@ For Non-root device watch the tutorial here
 - ❎ **No animation when opening Control Center** (for fast access and less cpu usage) [Preview](https://github.com/user-attachments/assets/9812762f-b54a-4a67-910e-011628cfda3d)
 - ✅ **Lighter**
 - ✅ **Minimal CPU and RAM usage**
-- ✅ **AOD (Always-On Display) transition animation** (⚠️ONLY WORKED ON HYPEROS 2.0)
+- ✅ **AOD (Always-On Display) transition animation** (⚠️ONLY WORKED IF U INSTALLED THE NON LITE VERSION)
 - ❎ **No Blurred volume panel**
 - ✅ **Blurred Power Menu**
 - ⚠️ **Only for HyperOS 2-2.2**
