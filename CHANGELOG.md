@@ -1,3 +1,8 @@
+# V2.4
+**What's New?**
+- Minor changes
+- For more info, join [Emerald Discussion](https://t.me/EmeraldDiscuss).
+
 # V2.3
 **What's New?**
 - Fixing critical issues
