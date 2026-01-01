@@ -1,7 +1,7 @@
-# Control Center Blur for HyperOS 2-2.2 (Lite Version) 
+# Control Center Blur for HyperOS 2.0 2.2 & 3.0 (Lite Version) 
 ![Picsart_25-06-23_22-24-54-105](https://github.com/user-attachments/assets/2e30c556-aa1f-44e9-944c-15f8b9614099)
 
-A modified and **Lighter** version of Control Center Blur, built specifically for **HyperOS 2-2.2.** 
+A modified and **Lighter** version of Control Center Blur, built specifically for **HyperOS 2.0 2.2 & 3.0** 
 This version sacrifices some real-time blur effects for **better performance**, **lower RAM/CPU usage**, and a **smoother experience** on low-end or mid-range devices.
 
 [![Releases](https://img.shields.io/github/v/release/fakerieh/Control-Center-Blur-for-HyperOS2-but-LIGHTER-?label=Download%20Releases&style=for-the-badge&logo=github)](https://github.com/fakerieh/Control-Center-Blur-for-HyperOS2-but-LIGHTER-/releases)
@@ -27,7 +27,7 @@ For Non-root device watch the tutorial here
 - ✅ **AOD (Always-On Display) transition animation** (⚠️ONLY WORKED IF U INSTALLED THE NON LITE VERSION)
 - ❎ **No Blurred volume panel**
 - ✅ **Blurred Power Menu**
-- ⚠️ **Only for HyperOS 2-2.2**
+- ⚠️ **Only for HyperOS 2.0 2.2 3.0**
 - ⚠️ **Some effects disabled intentionally to keep the system light**
 
 ---
@@ -57,7 +57,7 @@ For Non-root device watch the tutorial here
 
 ## 📦 Requirements
 
-- Redmi/POCO device with **HyperOS 2-2.2**
+- Redmi/POCO device with **HyperOS 2.0 2.2 3.0**
 - **Root access**
 - **Magisk or KernelSU** (latest version recommended)
 
@@ -76,7 +76,7 @@ For Non-root device watch the tutorial here
 ## ❌ Uninstallation
 
 1. Open **Magisk/KernelSU**.
-2. Go to **Modules** and remove **LiteBlur-HyperOS2**.
+2. Go to **Modules** and remove **LiteBlur-HyperOSX**.
 3. Reboot your device.
 
 ---
