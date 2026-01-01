@@ -87,6 +87,12 @@ it meant alot to me❤️‍🩹
 
 ---
 
+## IMPORTANT ‼️
+If you're on HyperOS 3, you **MUST** install this module first before continuing installing the Lite CC Blur module for HyperOS 3 or the module aren't gonna work!
+[Install this first](https://github.com/KernelSU-Modules-Repo/meta-overlayfs)
+
+---
+
 ## ⚠️ Disclaimer
 
 This module is provided **as-is** with no warranty.  
