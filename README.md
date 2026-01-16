@@ -20,7 +20,7 @@ For non-root device watch the tutorial here
 
 ## 🔧 What's the difference?
 
-- ✅ **No real-time blur** (for performance) [Preview](https://github.com/user-attachments/assets/63e0c045-3c91-4b4a-b84f-6bd0fbfcda79)
+- ✅ **No real-time blur** (for performance) [Preview](https://github.com/user-attachments/assets/04ef03fc-a15f-446a-b5a4-ae83c00021fc)
 - ✅ **No animation when opening Control Center** (for fast access and less cpu usage) [Preview](https://github.com/user-attachments/assets/9812762f-b54a-4a67-910e-011628cfda3d)
 - ✅ **Lighter**
 - ✅ **Minimal CPU and RAM usage**
