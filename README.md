@@ -1,4 +1,4 @@
-# Control Center Blur for HyperOS 2.0 2.2 & 3.0 (Lite Version) 
+# Control Center Blur for HyperOS 2.0 2.2 & 3.0 Lite version & Non-lite version
 ![Picsart_25-06-23_22-24-54-105](https://github.com/user-attachments/assets/2e30c556-aa1f-44e9-944c-15f8b9614099)
 
 A modified and **Lighter** version of Control Center Blur, built specifically for **HyperOS 2.0 2.2 & 3.0** 
@@ -11,7 +11,7 @@ This version sacrifices some real-time blur effects for **better performance**, 
 
 ---
 ## ❓ Non-root
-For Non-root device watch the tutorial here
+For non-root device watch the tutorial here
 
 [![Watch on TikTok](https://img.shields.io/badge/Tutorial%20Video-TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@emerald_g99/video/7451981653653654790?is_from_webapp=1&sender_device=pc&web_id=7509390879649957384)
 
@@ -20,14 +20,14 @@ For Non-root device watch the tutorial here
 
 ## 🔧 What's the difference?
 
-- ❎ **No real-time blur** (for performance) [Preview](https://github.com/user-attachments/assets/63e0c045-3c91-4b4a-b84f-6bd0fbfcda79)
-- ❎ **No animation when opening Control Center** (for fast access and less cpu usage) [Preview](https://github.com/user-attachments/assets/9812762f-b54a-4a67-910e-011628cfda3d)
+- ✅ **No real-time blur** (for performance) [Preview](https://github.com/user-attachments/assets/63e0c045-3c91-4b4a-b84f-6bd0fbfcda79)
+- ✅ **No animation when opening Control Center** (for fast access and less cpu usage) [Preview](https://github.com/user-attachments/assets/9812762f-b54a-4a67-910e-011628cfda3d)
 - ✅ **Lighter**
 - ✅ **Minimal CPU and RAM usage**
-- ✅ **AOD (Always-On Display) transition animation** (⚠️ONLY WORKED IF U INSTALLED THE NON LITE VERSION)
+- ✅ **AOD (Always-On Display) transition animation** (⚠️ONLY WORKED IF U INSTALLED THE **NON LITE VERSION**)
 - ❎ **No Blurred volume panel**
 - ✅ **Blurred Power Menu**
-- ⚠️ **Only for HyperOS 2.0 2.2 3.0**
+- ⚠️ **Only for HyperOS 2.0 2.2 & 3.0**
 - ⚠️ **Some effects disabled intentionally to keep the system light**
 
 ---
@@ -57,7 +57,7 @@ For Non-root device watch the tutorial here
 
 ## 📦 Requirements
 
-- Redmi/POCO device with **HyperOS 2.0 2.2 3.0**
+- Redmi/POCO device with **HyperOS 2.0 2.2 & 3.0**
 - **Root access**
 - **Magisk or KernelSU** (latest version recommended)
 
