@@ -1,4 +1,4 @@
-# Control Center Blur for HyperOS 2.0 2.2 & 3.0 Lite version
+# Control Center Blur for HyperOS 2.0 2.2 & 3.0 (Lite version)
 ![Picsart_25-06-23_22-24-54-105](https://github.com/user-attachments/assets/2e30c556-aa1f-44e9-944c-15f8b9614099)
 
 A modified and **Lighter** version of Control Center Blur, built specifically for **HyperOS 2.0 2.2 & 3.0** 
