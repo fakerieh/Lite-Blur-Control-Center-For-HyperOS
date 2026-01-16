@@ -45,13 +45,12 @@ For non-root device watch the tutorial here
 
 
 <p align="center">
-  <a href="https://github.com/user-attachments/assets/1863f8ae-d1d5-4614-ad8d-3cfa18b548c5">
+  <a href="https://github.com/user-attachments/assets/a7a2204d-1d02-48a2-b5b0-7fb910a98819
+">
     <img src="https://img.icons8.com/fluency/48/youtube-play.png" width="80"/><br/>
     <b>Click to watch demo video</b>
   </a>
 </p>
-
-
 
 ---
 
