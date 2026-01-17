@@ -25,7 +25,7 @@ For non-root device watch the tutorial here
 - ✅ **Lighter**
 - ✅ **Minimal CPU and RAM usage**
 - ✅ **AOD (Always-On Display) transition animation** (⚠️ONLY WORKED IF U INSTALLED THE **NON LITE VERSION**)
-- ❎ **No Blurred volume panel**
+- ✅ **No Blurred volume panel**
 - ✅ **Blurred Power Menu**
 - ⚠️ **Only for HyperOS 2.0 2.2 & 3.0**
 - ⚠️ **Some effects disabled intentionally to keep the system light**
