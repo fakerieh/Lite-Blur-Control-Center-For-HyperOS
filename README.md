@@ -112,6 +112,8 @@ This project is licensed under the GNU General Public License v3.0 - see the [LI
 
 ---
 
+This module is originally was made for emerald (POCO M6 Pro & REDMI Note 13 Pro 4G) but its still works with other Xiaomi devices.
+
 #emeraldforever 
 
 <img src="https://raw.githubusercontent.com/fakerieh/Control-Center-Blur-for-emerald-HyperOS2-Light-Version/refs/heads/main/banner/Emerald_JE3_BE3.png" width="100">
